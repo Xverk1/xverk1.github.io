@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://xverk1.github.io/sitemap.xml
+Sitemap: https://xverk1.github.io/baidusitemap.xml
