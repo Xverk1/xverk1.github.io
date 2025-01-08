@@ -228,16 +228,17 @@ footer:
   copyright:
 
   # Powered by Hexo & NexT
+  powered: true
   # 隐藏powerd by
-  # powered: true
-  powered: false
+  # powered: false
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, https://beian.mps.gov.cn
   beian:
     # 开启ICP备案部分
     # enable: false
     enable: true
-    icp: 豫ICP备2024076320号(不对啊这不是xverk1.com啊啊啊)
+    # icp: 豫ICP备2024076320号
+    icp: 豫ICP备1234567890号
     # The digit in the num of gongan beian.
     gongan_id:
     # The full num of gongan beian.
