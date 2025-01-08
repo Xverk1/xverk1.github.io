@@ -142,4 +142,5 @@ VITE v6.0.7  ready in 683 ms
 # Vue3 核心语法
 
 ## 认识 Vue3 项目结构
-![test.png](Vue3学习笔记/test.png)
+
+![test.png](./Vue3项目结构.png)
