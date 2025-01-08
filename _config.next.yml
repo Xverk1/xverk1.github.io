@@ -202,7 +202,9 @@ toc:
 # ---------------------------------------------------------------
 
 # Show multilingual switcher in footer.
-language_switcher: false
+# 打开语言切换器
+# language_switcher: false
+language_switcher: true
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.
@@ -226,12 +228,16 @@ footer:
   copyright:
 
   # Powered by Hexo & NexT
-  powered: true
+  # 隐藏powerd by
+  # powered: true
+  powered: false
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, https://beian.mps.gov.cn
   beian:
-    enable: false
-    icp:
+    # 开启ICP备案部分
+    # enable: false
+    enable: true
+    icp: 豫ICP备2024076320号(不对啊这不是xverk1.com啊啊啊)
     # The digit in the num of gongan beian.
     gongan_id:
     # The full num of gongan beian.
