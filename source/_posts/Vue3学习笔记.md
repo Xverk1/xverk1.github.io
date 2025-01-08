@@ -2,6 +2,10 @@
 title: Vue3学习笔记
 date: 2025-01-01 22:07:31
 tags:
+description: Vue3的学习记录, 欸嘿嘿
+categories:
+  - 开发
+  - 前端
 ---
 
 # 1. Vue3 简介
