@@ -2349,7 +2349,7 @@ defineProps(["a", "b", "c", "d", "x", "y", "updateA"]);
 
 ### 1. 默认插槽
 
-![img](http://49.232.112.44/images/default_slot.png)
+![img](./default_slot.png)
 
 ```vue
 父组件中：
