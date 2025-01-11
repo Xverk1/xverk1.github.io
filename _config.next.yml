@@ -143,9 +143,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: #/images/avatar.gif
+  url: /assets/images/avatar.jpg
   # If true, the avatar will be displayed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -202,9 +202,9 @@ toc:
 # ---------------------------------------------------------------
 
 # Show multilingual switcher in footer.
-# 打开语言切换器
-# language_switcher: false
-language_switcher: true
+# 语言切换器
+language_switcher: false
+# language_switcher: true
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.

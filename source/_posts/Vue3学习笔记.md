@@ -143,4 +143,4 @@ VITE v6.0.7  ready in 683 ms
 
 ## 认识 Vue3 项目结构
 
-![test.png](./Vue3项目结构.png)
+![](./Vue3项目结构.png)

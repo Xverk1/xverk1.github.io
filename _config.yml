@@ -8,13 +8,22 @@ baidusitemap:
   path: baidusitemap.xml
 
 # Site
-title: 蔚琦Xverk1's Blog
+title: 蔚琦的 Blog
 subtitle: ""
 description: "又活了一天, 已经很棒了^^!"
 keywords:
 author: Xverk1
 language: zh-CN
 timezone: ""
+
+# 站内搜索
+# search hexo-generator-searchdb
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+  limit: 100
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -55,7 +64,7 @@ future: true
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ""
   wrap: true
   hljs: false
