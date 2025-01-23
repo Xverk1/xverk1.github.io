@@ -1,8 +1,8 @@
 ---
-title: 3body
+title: 三体(全集)
 date: 2025-01-23 22:21:39
 tags:
-description: 3body
+description: 三体三部曲全集
 ---
 
 <!-- # 三体I
