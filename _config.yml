@@ -116,7 +116,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 # 更换theme为next
 # theme: landscape
-theme: next
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
