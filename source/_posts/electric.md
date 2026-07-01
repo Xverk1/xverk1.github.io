@@ -2,6 +2,7 @@
 title: electric
 date: 2025-12-08 14:16:31
 tags:
+published: false
 ---
 
 # 电工学习测试
